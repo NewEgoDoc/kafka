@@ -24,7 +24,7 @@
 ```bash
 ./bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic quickstart-events --from-beginning
 ```
-> topic consumer 1
+> topic consumer 2
 
 ```bash
 ./bin/kafka-console-consumer.sh --bootstrap-serverlocalhost:9092 --topic quickstart-events --from-beginning
